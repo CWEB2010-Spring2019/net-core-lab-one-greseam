@@ -7,6 +7,7 @@ namespace lab_one
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("hello my name i C#!!! !#SDF#R@FDQE");
         }
     }
 }
