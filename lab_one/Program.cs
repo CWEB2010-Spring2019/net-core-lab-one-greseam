@@ -132,7 +132,7 @@ namespace lab_one
                         {
                             Console.ForegroundColor = ConsoleColor.Yellow;
                             correct.Add(userSelection);
-                            Console.WriteLine("Error, no option given!");
+                            Console.WriteLine("Error, invalid option given!");
                             Console.ForegroundColor = ConsoleColor.White;
                             Console.WriteLine("Press Enter to continue...");
                             Console.ReadKey();
